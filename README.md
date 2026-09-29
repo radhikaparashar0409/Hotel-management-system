@@ -3,6 +3,9 @@ A comprehensive Hotel Management System designed to streamline room bookings, ch
 markdown# Hotel Booking System 
 
 This is a simple command-line based **Hotel Booking System** project built in Python. It allows users to easily manage, book, and check out hotel rooms.
+## Problem Statement
+
+Managing hotel rooms, bookings, check-ins, check-outs, and billing manually can be time-consuming and difficult. The aim of this project is to develop a simple Python-based Hotel Management System that helps manage room availability, customer bookings, check-in and check-out details, and billing efficiently. The system reduces manual effort and keeps hotel information organized
 
 ## Features
 
